@@ -8,6 +8,7 @@ Rest Framework to handle data storage, retrieval, and user authentication.
 
 <h2>Features</h2>
 <hr/>
+
 Product Catalog: Browse a wide range of products.
 
 User Authentication: Secure user authentication for personalized shopping experiences.
